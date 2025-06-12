@@ -1,10 +1,11 @@
-# Repo for programming tests, so boring...
+# Repo for coding and tests
 
 
-## IceCream Parlor results: Is binary search the way to go?
 
-We are solving a big test case here, tests/input00.txt, and this are results I got.
 
+### IceCream Parlor results: Is binary search the way to go?
+
+We are solving a big test case here, tests/input00.txt, and these are the results I got.
 
 > time python3 test_iceCreamParlor_binarySearch.py 
 ```
